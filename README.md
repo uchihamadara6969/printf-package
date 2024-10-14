@@ -22,7 +22,7 @@ printf(1)
 <p align="center">
 
 <img src="assets\image.png" width="75%" />
-
+<img src="assets\image1.png" width="75%" />
 </p>
 
 ## License
