@@ -1,8 +1,8 @@
 from setuptools import setup
 
 setup(
-    name="printf-package",  
-    version="0.1.0", 
+    name="printf-package", 
+    version="0.2.0", 
     py_modules=["printf"], 
     install_requires=[],  
     description="A package for experiment printf function",
