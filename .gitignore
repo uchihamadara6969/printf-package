@@ -1,2 +1,9 @@
 
 /.v
+.pypirc
+/build
+/dist
+/dist
+/build
+/build
+/dist
